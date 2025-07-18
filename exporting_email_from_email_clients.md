@@ -18,7 +18,7 @@ for help.
 
 2.  Under “1. Select data to include,” click “Deselect All.”
 
-<img src="/Users/debauche/Downloads/images/media/image4.png"
+<img src="./assets/exporting_email_from_email_clients_images_004.png"
 style="width:4.51389in;height:4.40278in"
 alt="A screenshot of a social media post Description automatically generated" />
 
@@ -30,7 +30,7 @@ alt="A screenshot of a cell phone Description automatically generated" />
 
 1.  Scroll all the way to the bottom of the page and click “Next step.”
 
-<img src="/Users/debauche/Downloads/images/media/image5.png"
+<img src="./assets/exporting_email_from_email_clients_images_005.png"
 style="width:4.30556in;height:3.90278in"
 alt="A screenshot of a cell phone Description automatically generated" />
 
@@ -43,13 +43,13 @@ alt="A screenshot of a cell phone Description automatically generated" />
 
     3.  *File type & size*: .zip and 50 GB
 
-<img src="/Users/debauche/Downloads/images/media/image9.png"
+<img src="./assets/exporting_email_from_email_clients_images_009.png"
 style="width:5.57813in;height:5.39141in" />
 
 1.  Click “Create Archive.” If successful, Google will take you to this
     window.
 
-<img src="/Users/debauche/Downloads/images/media/image3.png"
+<img src="./assets/exporting_email_from_email_clients_images_003.png"
 style="width:4.48611in;height:4.22222in"
 alt="A screenshot of a social media post Description automatically generated" />
 
@@ -76,7 +76,7 @@ checkboxes to the left of the messages in Gmail’s inbox view. In the
 below screenshot, the top two messages are selected. You can apply a
 label to those messages by clicking on the icon in the red box.
 
-<img src="/Users/debauche/Downloads/images/media/image6.png"
+<img src="./assets/exporting_email_from_email_clients_images_006.png"
 style="width:4.66146in;height:1.42682in" />
 
 You can also apply labels to the results of a search in your Gmail
@@ -89,7 +89,7 @@ and not just the ones on the current page, click the text at the top of
 the search results that says “Select all \## conversations in \[your
 search term\]” (blue box). You can then apply a label (red box).
 
-<img src="/Users/debauche/Downloads/images/media/image10.png"
+<img src="./assets/exporting_email_from_email_clients_images_010.png"
 style="width:4.72396in;height:2.45282in" />
 
 ### Exporting messages by label
@@ -100,30 +100,30 @@ style="width:4.72396in;height:2.45282in" />
     be exported.
 
 2.  Under “1. Select data to include,” click “Deselect All.”  
-    <img src="/Users/debauche/Downloads/images/media/image4.png"
+    <img src="./assets/exporting_email_from_email_clients_images_004.png"
     style="width:4.51389in;height:4.40278in"
     alt="A screenshot of a social media post Description automatically generated" />
 
 3.  Scroll down to the “Mail” category and check the box next to it.
     Click the “All Mail data included” box in the Mail category.  
-    <img src="/Users/debauche/Downloads/images/media/image7.png"
+    <img src="./assets/exporting_email_from_email_clients_images_007.png"
     style="width:5.16064in;height:4.23438in" />
 
 4.  A window like the below will pop up; uncheck the box that says
     “Include all messages in Mail.”  
-    <img src="/Users/debauche/Downloads/images/media/image2.png"
+    <img src="/./assets/exporting_email_from_email_clients_images_002.png"
     style="width:1.90278in;height:2.51389in"
     alt="A screenshot of a cell phone Description automatically generated" />
 
 5.  Scroll down and check the boxes of the labels you wish to export.
     (In the below screenshot, I’m only exporting the folder called
     “Important.”) Once done, click “OK” in the popup window.  
-    <img src="/Users/debauche/Downloads/images/media/image8.png"
+    <img src="./assets/exporting_email_from_email_clients_images_008.png"
     style="width:2.41667in;height:5.68056in"
     alt="A screenshot of a cell phone Description automatically generated" />
 
 6.  Scroll all the way to the bottom of the page and click “Next
-    step.”<img src="/Users/debauche/Downloads/images/media/image5.png"
+    step.”<img src="./assets/exporting_email_from_email_clients_images_005.png"
     style="width:4.30556in;height:3.90278in"
     alt="A screenshot of a cell phone Description automatically generated" />
 
@@ -136,12 +136,12 @@ style="width:4.72396in;height:2.45282in" />
 
     3.  *File type & size*: .zip and 50 GB.
 
-<img src="/Users/debauche/Downloads/images/media/image9.png"
+<img src="./assets/exporting_email_from_email_clients_images_009.png"
 style="width:5.57813in;height:5.39141in" />
 
 1.  Click “Create Archive.” If successful, Google will take you to this
     window.  
-    <img src="/Users/debauche/Downloads/images/media/image3.png"
+    <img src="./assets/exporting_email_from_email_clients_images_003.png"
     style="width:4.48611in;height:4.22222in"
     alt="A screenshot of a social media post Description automatically generated" />
 
