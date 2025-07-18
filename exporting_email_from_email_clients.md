@@ -123,7 +123,7 @@ style="width:4.72396in;height:2.45282in" />
     alt="A screenshot of a cell phone Description automatically generated" />
 
 6.  Scroll all the way to the bottom of the page and click “Next
-    step.”
+    step.”<br>
     <img src="./assets/exporting_email_from_email_clients_images_005.png"
     style="width:4.30556in;height:3.90278in"
     alt="A screenshot of a cell phone Description automatically generated" />
