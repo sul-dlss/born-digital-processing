@@ -24,7 +24,7 @@ alt="A screenshot of a social media post Description automatically generated" />
 
 1.  Scroll down to the “Mail” category and check the box next to it.
 
-<img src="/Users/debauche/Downloads/images/media/image1.png"
+<img src="./assets/exporting_email_from_email_clients_images_001.png"
 style="width:4.5in;height:4.33333in"
 alt="A screenshot of a cell phone Description automatically generated" />
 
