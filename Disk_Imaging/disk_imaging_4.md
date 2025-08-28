@@ -1,4 +1,4 @@
-Previous step: [Imaging](disk_imaging_0.md#imaging).
+Previous step: [Imaging](./disk_imaging_0.md#imaging).
 You are at the last step. 🎉
 
 # 4. After imaging
