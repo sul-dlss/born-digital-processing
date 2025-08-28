@@ -1,5 +1,5 @@
-Previous step: [Before imaging](Disk_Imaging/disk_imaging_2.md).
-Next step: [After imaging](Disk_Imaging/disk_imaging_4.md).
+Previous step: [Before imaging](disk_imaging_2.md).
+Next step: [After imaging](disk_imaging_4.md).
 
 # Imaging 3.2: Disk imaging a logical device in IsoBuster
 
@@ -77,7 +77,7 @@ DVDs (DVD-Video) are sent to SMPL for reformatting.
     3.  If there were no bad sectors, record “Pass” in the “Imaging
         Success?” column of the imaging log.
     
-    4.  Proceed to [Quality Control](Disk_Imaging/disk_imaging_4.md#quality-control-of-your-disk-image).
+    4.  Proceed to [Quality Control](disk_imaging_4.md#quality-control-of-your-disk-image).
 
 ### Generating a filelist using IsoBuster
 

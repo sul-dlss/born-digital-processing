@@ -81,7 +81,7 @@ plays properly in VLC.
         detailed. Common filesystems in order from most preferred to least: UDF,
         Joliet, ISO 9660, HFS+ (will generate a readable text filelist
         even though it is Mac-only), HFS.
-    - Try mounting the live disk and transferring files using [rsync](Disk_Imaging/disk_imaging_3_4_rsync.md) or [TeraCopy](Disk_Imaging/disk_imaging_3_5_teracopy.md).
+    - Try mounting the live disk and transferring files using [rsync](disk_imaging_3_4_rsync.md) or [TeraCopy](disk_imaging_3_5_teracopy.md).
 
 -  If you cannot get a better result:
     - Document your issues in the disk
@@ -91,7 +91,7 @@ plays properly in VLC.
 
 The BDPL updates records in the following places:
 
-* Disk imaging log: [Setting up an imaging log](Disk_Imaging/disk_imaging_2.md#setting-up-an-imaging-log).
+* Disk imaging log: [Setting up an imaging log](disk_imaging_2.md#setting-up-an-imaging-log).
     - Ensure the disk imaging log is filled out with any important notes about the imaging process.
     - If in IsoBuster, note that IsoBuster indicates filesystem types using icons; see [this page on the IsoBuster website](https://www.isobuster.com/help/file_systems) for a key.
 * Jira

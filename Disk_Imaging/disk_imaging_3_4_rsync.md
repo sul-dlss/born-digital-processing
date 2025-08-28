@@ -1,5 +1,5 @@
-Previous step: [Before imaging](Disk_Imaging/disk_imaging_2.md).
-Next step: [After imaging](Disk_Imaging/disk_imaging_4.md).
+Previous step: [Before imaging](disk_imaging_2.md).
+Next step: [After imaging](disk_imaging_4.md).
 
 ## Imaging 3.4: Performing a file transfer on Mac using rsync
 
@@ -7,9 +7,9 @@ Next step: [After imaging](Disk_Imaging/disk_imaging_4.md).
 
 - Mac computer
 
-- Write blocker (see [Write blocking](Disk_Imaging/disk_imaging_2.md#write-blocking))
+- Write blocker (see [Write blocking](disk_imaging_2.md#write-blocking))
 
-- bagit.py (see [Installing bagit.py](Disk_Imaging/disk_imaging_2.md#installing-bagit.py))
+- bagit.py (see [Installing bagit.py](disk_imaging_2.md#installing-bagit.py))
 
 ### Results
 

@@ -1,5 +1,5 @@
 You are at the first step.
-Next step: [Before imaging](Disk_Imaging/disk_imaging_2.md).
+Next step: [Before imaging](disk_imaging_2.md).
 
 # 1. Choosing an imaging strategy
 
@@ -85,10 +85,10 @@ the Digital Archival traNsfer, iNgest, and packagiNg Group has written an
 
 ## Options
 1.  I have a **hard drive, flash drive, or Zip disk** and I want to make
-    a **disk image**: -&gt; [Disk imaging a physical drive in FTK Imager](Disk_Imaging/disk_imaging_3_1_ftkimager.md)
+    a **disk image**: -&gt; [Disk imaging a physical drive in FTK Imager](disk_imaging_3_1_ftkimager.md)
 2.  I have an **optical disc** (a CD or DVD) and I want to make a **disk
-    image**: -&gt; [Disk imaging a logical device in IsoBuster](Disk_Imaging/disk_imaging_3_2_isobuster.md)
+    image**: -&gt; [Disk imaging a logical device in IsoBuster](disk_imaging_3_2_isobuster.md)
 3.  I have a **floppy disk** (3.5” or 5.25”) and I want to make a **disk
-    image**: -&gt; [Disk imaging a floppy disk using the KryoFlux](Disk_Imaging/disk_imaging_3_3_kryoflux.md)
-4.  I have **any kind of media** and I want to perform a **file transfer on a Mac**: -&gt; [Performing a file transfer on Mac using rsync](Disk_Imaging/disk_imaging_3_4_rsync.md)
-5.  I have **any kind of media** and I want to perform a **file transfer on Windows**: -&gt; [Performing a file transfer on Windows using TeraCopy](Disk_Imaging/disk_imaging_3_5_teracopy.md)
+    image**: -&gt; [Disk imaging a floppy disk using the KryoFlux](disk_imaging_3_3_kryoflux.md)
+4.  I have **any kind of media** and I want to perform a **file transfer on a Mac**: -&gt; [Performing a file transfer on Mac using rsync](disk_imaging_3_4_rsync.md)
+5.  I have **any kind of media** and I want to perform a **file transfer on Windows**: -&gt; [Performing a file transfer on Windows using TeraCopy](disk_imaging_3_5_teracopy.md)

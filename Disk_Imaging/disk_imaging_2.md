@@ -1,4 +1,4 @@
-Previous step: [Choosing an imaging strategy](Disk_Imaging/disk_imaging_1.md).
+Previous step: [Choosing an imaging strategy](disk_imaging_1.md).
 Next step: [Imaging](disk_imaging_0.md#imaging).
 
 # 2. Before imaging
