@@ -66,7 +66,7 @@ not need a disk to calibrate the drive.
 3.  If the KryoFlux correctly calibrates, it will report this at the
     bottom of the imager (blue box). If there is an error, the red error light will light up (red box).
 
-    <img src=".../assets/disk_imaging_images_004.png" style="width:30%"/>
+    <img src="./assets/disk_imaging_images_004.png" style="width:30%"/>
 
 #### Troubleshooting calibration
 
@@ -94,7 +94,7 @@ If you keep encountering calibration errors, check the following:
     1.  To check this:
         * Open Command Prompt
         * Navigate (using ``cd``) to the ``dtc`` folder, which is stored within the KryoFlux directory
-        * Type the following: ```dtc -c2```
+        * Type the following: ``dtc -c2``
         * Press Enter
 
     2.  If the output of this DTC command is an error message,
@@ -118,7 +118,7 @@ If you are using the KryoFlux for the first time on a user account or computer, 
 
 2.  Back in the main “Control” panel, select the “&lt;Multiple&gt;” option at the bottom of the window.
 
-<img src=".../assets/disk_imaging_images_005.png" style="width:30%"/>
+<img src="./assets/disk_imaging_images_005.png" style="width:30%"/>
 
 3.  A "Select outputs" window will pop up. Set the encoding scheme for the images
     to be created. You can select multiple at once by holding down the ctrl key while you click.
@@ -152,7 +152,7 @@ If you guess at the wrong encoding, you can re-try a different encoding on the p
     represented by a rectangular block. Side 0 and Side 1 represent the
     two sides of a double-sided floppy disk. See ["Interpreting the KryoFlux output"](#interpreting-the-kryoflux-output) for information on how to interpret the GUI output.
 
-<img src=".../assets/disk_imaging_images_006.png" style="width:30%"/>
+<img src="./assets/disk_imaging_images_006.png" style="width:30%"/>
 
 4. After imaging:
 
@@ -303,7 +303,7 @@ If you encounter a large number of red sectors, the KryoFlux may be able to re-r
     errors). This process requires re-imaging the physical disk. To increase the number of re-reads:
 
 1. Go to File -&gt; Settings -&gt; Advanced tab:  
-    <img src=".../assets/disk_imaging_images_007.png" style="width:30%"/>
+    <img src="./assets/disk_imaging_images_007.png" style="width:30%"/>
 
 2.  Uncheck “Default” in the Retries row, and write in a number
     larger than 5 (5 is the default); doubling the retries to 10 is usually a good place to start.

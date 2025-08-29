@@ -29,7 +29,7 @@ Next step: [After imaging](disk_imaging_4.md).
 
 4.  Begin a file transfer through the terminal, using rsync.
 
-     ```rsync -avh --progress /path/to/source /path/to/destination```
+     ``rsync -avh --progress /path/to/source /path/to/destination``
 
 5.  After transfer, files should be bagged using the Library of
     Congress's [bagit-python utility](https://github.com/LibraryOfCongress/bagit-python). This step should also be performed on a Mac.

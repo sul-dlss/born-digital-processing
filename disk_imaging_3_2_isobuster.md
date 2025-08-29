@@ -45,7 +45,7 @@ DVDs (DVD-Video) are sent to SMPL for reformatting.
     “Track,” or one of the filesystem levels active, you will only
     capture partial contents of the disc.)  
 
-<img src=".../assets/disk_imaging_images_003.png" style="width:25%"/>
+<img src="./assets/disk_imaging_images_003.png" style="width:25%"/>
 
 1.  Once the “DVD” directory is active, click on File -&gt; DVD -&gt;
     Extract DVD &lt;Image&gt; -&gt; User Data (\*.tao, \*.iso,
