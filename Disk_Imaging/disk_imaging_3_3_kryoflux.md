@@ -68,9 +68,9 @@ not need a disk to calibrate the drive.
 
     <img src="./assets/disk_imaging_images_004.png" style="width:30%"/>
 
-####Troubleshooting calibration
+#### Troubleshooting calibration
 
-If you keep encountering calirbation errors, check the following:
+If you keep encountering calibration errors, check the following:
 
 1.  Is the ribbon cable connected properly?
 
