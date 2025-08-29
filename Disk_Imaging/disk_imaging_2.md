@@ -91,9 +91,9 @@ to be created by the archivist. To create a new profile, go to Settings
 be as follows:
 
 **1.2MB IBM HD:**
-<br><img src="./assets/disk_imaging_images_001.png" style="width:40%" />
+<br><img src="../assetss/disk_imaging_images_001.png" style="width:40%" />
 <br><br> **360K IBM DD:**
-<br><img src="./assets/disk_imaging_images_002.png" style="width:40%" />
+<br><img src="../assetss/disk_imaging_images_002.png" style="width:40%" />
 
 ### Installing bagit.py
 
