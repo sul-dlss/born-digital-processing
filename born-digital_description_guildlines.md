@@ -193,9 +193,9 @@ total)</p></li>
 </tbody>
 </table>
 
-# 2. Examples of Stanford finding aids and catalog records with born-digital materials
+# 2. Examples of finding aids and catalog records with born-digital materials
 
-## Finding aids
+## Stanford finding aids
 
 - Item-level spreadsheet upload for audiovisual materials: Social
   Thought Archive:
@@ -237,7 +237,7 @@ total)</p></li>
 
   - File trees/file listings attached to or integrated into finding aid
 
-## Catalog records
+## Stanford catalog records
 
 - David Wolinsky papers (M2634):
   [<u>https://searchworks.stanford.edu/view/13768655</u>](https://searchworks.stanford.edu/view/13768655)
@@ -250,7 +250,7 @@ total)</p></li>
 - OpenAI 5 Team interviews collection:
   [<u>https://searchworks.stanford.edu/view/14859148</u>](https://searchworks.stanford.edu/view/14859148)
 
-## Examples from other institutions
+## Finding aids from other institutions
 
 - Series-level description:
 
@@ -282,7 +282,7 @@ total)</p></li>
 >
 > [<u>https://oac.cdlib.org/findaid/ark:/13030/kt938nd6h4/</u>](https://oac.cdlib.org/findaid/ark:/13030/kt938nd6h4/)
 
-- Pretty high level description but includes supplemental PDF media
+- High level description also including supplemental PDF media
   inventory:
 
   - Davida Rochlin papers, 1971-2019
@@ -312,7 +312,7 @@ total)</p></li>
 >
 > [<u>https://oac.cdlib.org/findaid/ark:/13030/c8g73kcc/</u>](https://oac.cdlib.org/findaid/ark:/13030/c8g73kcc/)
 
-- BD description is integrated with rest of description - item level
+- Born digital description is integrated with rest of description - item level
   description with digital objects:
 
   - Feminist Art Workers records, 1976-2013, undated
@@ -1053,7 +1053,7 @@ or published and any other restrictions on use that may apply.
 
 **Example(s)**
 
-<u>Special Collections - Copyrighted APO</u>
+<u>Special Collections - Copyrighted</u>
 
 > While Special Collections is the owner of the physical and digital
 > items, permission to examine collection materials is not an
@@ -1063,7 +1063,7 @@ or published and any other restrictions on use that may apply.
 > the owners of rights, their heir(s) or assigns. When required, it is
 > the researcher's responsibility to obtain such permissions.
 
-<u>Special Collections - Reading Room Access APO</u>
+<u>Special Collections - Reading Room Access</u>
 
 > While Special Collections is the owner of the physical and digital
 > items, permission to examine collection materials is not an
@@ -1704,3 +1704,4 @@ other repositories, or elsewhere.
 > [<u>Elbert “Big Man” Howard
 > papers</u>](https://searchworks.stanford.edu/view/13634331) with his
 > published works under other catalog records)*
+
