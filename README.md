@@ -17,6 +17,10 @@ This document, aimed at donors and creators, explains the importance of collecti
 ### [Exporting Email from Email Clients](https://github.com/sul-dlss/born-digital-processing/blob/main/exporting_email_from_email_clients.md)
 This document provides step by step directions for exporting email from various email clients.
 
+## Templates
+### [Template: Processing and Survey Notes for Born-Digital Collections](https://github.com/sul-dlss/born-digital-processing/blob/main/template_processing_and_survey_notes.md)
+This document provides a template for creating processing and survey notes for born-digital collections.
+
 ## History
 The documentation in this repository was edited for distribution and published in 2025.
 Contributors: @aeschweik, @SallyDeBauche, @ahbersch
