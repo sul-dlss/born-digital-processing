@@ -1,3 +1,5 @@
+## **Template: Processing and Survey Notes for Born-Digital Collections**
+
 *This document provides a template for creating processing and survey
 notes for born-digital collections.*
 
@@ -89,3 +91,4 @@ picking up the collection in the future.
   - *Description of issues encountered*
 
 ### 
+
