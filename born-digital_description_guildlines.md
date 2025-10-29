@@ -11,7 +11,7 @@ Sources for metadata fields and crosswalks:
 - DACS:
   [<u>https://saa-ts-dacs.github.io/dacs/</u>](https://saa-ts-dacs.github.io/dacs/)
 
-- ArchivesSpace: archivesspace.stanford.edu:8080/
+- ArchivesSpace
 
 - EAD:
   [<u>https://www.loc.gov/ead/EAD3taglib/EAD3-TL-eng.html</u>](https://www.loc.gov/ead/EAD3taglib/EAD3-TL-eng.html)
@@ -1704,4 +1704,5 @@ other repositories, or elsewhere.
 > [<u>Elbert “Big Man” Howard
 > papers</u>](https://searchworks.stanford.edu/view/13634331) with his
 > published works under other catalog records)*
+
 
