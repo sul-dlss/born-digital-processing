@@ -50,7 +50,7 @@ metadata</u>](#descriptive-element-definitions-with-examples-from-our-metadata)
 >
 > [<u>Names</u>](#names)
 >
-> <u>Electronic[Electronic Location and
+> <u>[Electronic Location and
 > Access](#electronic-location-and-access) Location and Access</u>
 >
 > [<u>Conditions Governing Access</u>](#conditions-governing-access)
@@ -1704,5 +1704,6 @@ other repositories, or elsewhere.
 > [<u>Elbert “Big Man” Howard
 > papers</u>](https://searchworks.stanford.edu/view/13634331) with his
 > published works under other catalog records)*
+
 
 
