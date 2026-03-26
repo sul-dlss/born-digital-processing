@@ -21,7 +21,7 @@ This document provides step by step directions for exporting email from various 
 ### [Template: Processing and Survey Notes for Born-Digital Collections](https://github.com/sul-dlss/born-digital-processing/blob/main/template_processing_and_survey_notes.md)
 This document provides a template for creating processing and survey notes for born-digital collections.
 
-## [Template: File List and Accessioning Progress Spreadsheet](https://github.com/sul-dlss/born-digital-processing/blob/main/filelist_and_accessioning_progress.xlsx)
+### [Template: File List and Accessioning Progress Spreadsheet](https://github.com/sul-dlss/born-digital-processing/blob/main/filelist_and_accessioning_progress.xlsx)
 This template provides a mechanism for the archivist to record basic information about digital files to be processed. The spreadsheet uses formulas to reformat, copy, or filter information to various sheets for specific purposes throughout the processing workflow.
 
 ## History
