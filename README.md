@@ -7,9 +7,6 @@ This document provides guidelines and in some cases, specific language to use fo
 ## [Disk Imaging Strategy and Workflows](https://github.com/sul-dlss/born-digital-processing/blob/main/disk_imaging_0.md)
 This documentation is an overview of workflows for disk imaging and file transferring at the Born Digital Preservation Lab (BDPL), a reformatting lab that is part of Stanford University Libraries. It has been compiled and deduped from multiple standalone imaging workflows.
 
-## [File List and Accessioning Progress Spreadsheet](https://github.com/sul-dlss/born-digital-processing/blob/main/filelist_and_accessioning_progress.xlsx)
-This template provides a mechanism for the archivist to record basic information about digital files to be processed. The spreadsheet uses formulas to reformat, copy, or filter information to various sheets for specific purposes throughout the processing workflow.
-
 ## Email documentation
 ### [Email Description Guidelines](https://github.com/sul-dlss/born-digital-processing/blob/main/email_description_guidelines.md)
 This document provides guidelines and in some cases, specific language to use for describing email collections in archival finding aids, catalog records, and the ePADD email processing and access software at Stanford Libraries in the Department of Special Collections and University Archives. It also offers recommendations for how much detail to provide as minimal and enhanced description.
@@ -23,6 +20,9 @@ This document provides step by step directions for exporting email from various 
 ## Templates
 ### [Template: Processing and Survey Notes for Born-Digital Collections](https://github.com/sul-dlss/born-digital-processing/blob/main/template_processing_and_survey_notes.md)
 This document provides a template for creating processing and survey notes for born-digital collections.
+
+## [Template: File List and Accessioning Progress Spreadsheet](https://github.com/sul-dlss/born-digital-processing/blob/main/filelist_and_accessioning_progress.xlsx)
+This template provides a mechanism for the archivist to record basic information about digital files to be processed. The spreadsheet uses formulas to reformat, copy, or filter information to various sheets for specific purposes throughout the processing workflow.
 
 ## History
 The documentation in this repository was edited for distribution and published in 2025.
