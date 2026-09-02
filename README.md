@@ -24,6 +24,9 @@ This document provides a template for creating processing and survey notes for b
 ### [Template: File List and Accessioning Progress Spreadsheet](https://github.com/sul-dlss/born-digital-processing/blob/main/filelist_and_accessioning_progress.xlsx)
 This template provides a mechanism for the archivist to record basic information about digital files to be processed. The spreadsheet uses formulas to reformat, copy, or filter information to various sheets for specific purposes throughout the processing workflow.
 
+### [Template: Minimal Born Digital Metadata](https://github.com/sul-dlss/born-digital-processing/blob/main/Minimal_born-digital_metadata_template.xlsx)
+This template provides a simplified spreadsheet for collection donors, creators, or library colleagues who do not typically create detailed descriptive metadata. This spreadsheet contains some additional reference links to useful controlled vocabularies and other resources.
+
 ## History
 The documentation in this repository was edited for distribution and published in 2025.
 Contributors: @aeschweik, @SallyDeBauche, @ahbersch
